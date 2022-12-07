@@ -14,7 +14,7 @@ This is the completed module 19 challenge from the UCF FSF Bootcamp. The purpose
 
 ## Installations
 The link to the deployed website is here: [jate-by-sangki-jun](https://jate-by-sangki-jun.herokuapp.com/). <br />
-![]()
+![](./assets/images/module-19-challenge-jate.jpg)
 
 ## Usage
 Type out any notes you want and the page will retain the information even if you leave. Click the install button at the top to have the app on your device locally.
